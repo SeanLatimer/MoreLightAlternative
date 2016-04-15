@@ -1,0 +1,9 @@
+{
+  "name": "MoreLightAlt",
+  "version": "1.0.0",
+  "title": "MoreLight Alternative",
+  "author": "Sean Latimer",
+  "homepage": "",
+  "dependencies": ["base"],
+  "description": "Gives the player more light. This is an alternative version of MoreLight, which also applies to the vehicles."
+}

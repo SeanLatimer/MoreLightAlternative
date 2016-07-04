@@ -5,5 +5,6 @@
   "author": "Sean Latimer",
   "homepage": "",
   "dependencies": ["base"],
+  "factorio_version": "0.13",
   "description": "Gives the player more light. This is an alternative version of MoreLight, which also applies to the vehicles."
 }
